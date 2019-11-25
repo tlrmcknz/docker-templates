@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
-  <TemplateURL>https://thisrepo/realdebridrss.xml</TemplateURL>
+  <TemplateURL>https://github.com/tlrmcknz/docker-templates/binarymelon/realdebridrss.xml</TemplateURL>
   <Beta>False</Beta>
   <Category>Downloaders:</Category>
   <Date>2019-11-25</Date>
@@ -9,8 +9,8 @@
   <Description>Does stuff</Description>
   <Project></Project>
   <Overview>Really does stuff</Overview>
-  <Registry></Registry>
-  <Repository>binarymelon/realdebridrss</Repository>
+  <Registry>https://hub.docker.com/r/tlrmcknz/realdebridrss</Registry>
+  <Repository>tlrmcknz/realdebridrss</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
